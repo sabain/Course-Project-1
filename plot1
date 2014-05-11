@@ -1,0 +1,2 @@
+> power.cosumption <- read.delim("E:/Online Courses/Exploratory Data Analysis/Project/Course project 1/power cosumption.txt")
+>hist(power.consumption$Global_active_power, xlab = "Global Active Power(kilowatts)", ylab = "Frequency", main = "Global Active Power", col = "red")
